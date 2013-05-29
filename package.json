@@ -1,0 +1,27 @@
+{
+  "name": "Pikaday",
+  "version": "0.0.0",
+  "description": "Dependency free data picker",
+  "main": "pikaday.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ibrokethat/Pikaday.git"
+  },
+  "dependencies": {
+    "moment": "2.0.x"
+  },
+  "keywords": [
+    "Date",
+    "Picker"
+  ],
+  "author": "David Bushell",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "ddc2a5694dcb18ed63e19b527a4925e8ad6630c1"
+}
