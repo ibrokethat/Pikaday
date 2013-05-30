@@ -13,9 +13,6 @@
     "type": "git",
     "url": "git://github.com/ibrokethat/Pikaday.git"
   },
-  "dependencies": {
-    "moment": "2.0.x"
-  },
   "keywords": [
     "Date",
     "Picker"
